@@ -1111,9 +1111,10 @@ nav #main-menu li:hover a {
     margin-top: 20%;
     height:700;
 } */
-    .maincontent {
+  .maincontent {
         height: 700px;
         width: 1000px;
+        margin-left: -2%;
     }
 
     main .phan3 .gt {
