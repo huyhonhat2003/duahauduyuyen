@@ -1214,6 +1214,7 @@ nav #main-menu li:hover a {
         font-size: 30px;
         margin-top: -30%;
         font-weight: 700;
+        margin-right: -48px;
     }
 
     .maincontent h1 {
