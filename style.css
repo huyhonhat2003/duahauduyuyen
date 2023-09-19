@@ -708,7 +708,11 @@ input[type=submit]:hover {
 }
 
 .sanpham {
+   
     margin-left: 13%;
+    margin-left: 10px;
+
+
 }
 
 /* footer */
