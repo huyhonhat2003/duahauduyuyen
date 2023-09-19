@@ -1210,8 +1210,7 @@ nav #main-menu li:hover a {
     }
 
     .maincontent .sanpham {
-        /* width: 80%;  */
-        text-align: center;
+        margin-right: -58px;
         font-size: 30px;
         margin-top: -30%;
         font-weight: 700;
