@@ -1459,7 +1459,7 @@ nav #main-menu li:hover a {
         height: 2200px;
         clear: both;
         margin-top: 50%;
-        margin-left: -2%;
+        margin-left: 0%;
     }
 
     .maincontent .trainghiem {
